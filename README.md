@@ -1,2 +1,2 @@
 # JiraIntGithub
-#Pruebas de integracion de Jira con Github
+#Pruebas de integracion de Jira con Github fase 1
